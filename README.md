@@ -18,7 +18,7 @@ Telegram: UncleTupelo
 
 GitHub: UncleTupelo
 
-# Research samples
+# Crypto Research samples
 
 [DOT211901-jf.pdf](https://github.com/UncleTupelo/Readme/files/7673429/DOT211901-jf.pdf)
 
